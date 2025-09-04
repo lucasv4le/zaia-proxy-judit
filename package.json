@@ -1,0 +1,11 @@
+{
+  "name": "zaia-proxy-judit",
+  "private": true,
+  "version": "1.0.1",
+  "description": "Proxy ZAIA -> JUDIT: um único GET que orquestra as 3 chamadas da API JUDIT e retorna movimentações padronizadas.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {}
+}
